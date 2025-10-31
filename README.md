@@ -48,24 +48,6 @@ Core competencies include full-stack development, database design, RESTful API d
 
 ---
 
-## Featured Projects
-
-### Event Management System
-**Tech Stack:** Flask • SQLite • HTML/CSS/JavaScript • Bootstrap
-
-A comprehensive full-stack web application designed for efficient event planning and management. Features include user authentication, dynamic dashboards, complete CRUD operations for event management, attendee tracking, and automated notifications.
-
-**Key Features:**
-- Secure user authentication and authorization
-- Real-time event scheduling and management
-- Attendee registration and tracking system
-- Responsive design for cross-platform compatibility
-- Database-driven architecture for scalable performance
-
-[View All Repositories →](https://github.com/GOPIKRISHNAN-S-15?tab=repositories)
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -94,9 +76,9 @@ A comprehensive full-stack web application designed for efficient event planning
 
 ## Professional Contact
 
-**Email:** gopi15062006@gmail.com 
-**LinkedIn:** [linkedin.com/in/your-linkedin]((https://www.linkedin.com/in/gopi15))  
-**GitHub:** [github.com/GOPIKRISHNAN-S-15](https://github.com/GOPIKRISHNAN-S-15)
+[Email](gopi15062006@gmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/gopi15)  <br>
+[Github](https://github.com/GOPIKRISHNAN-S-15)
 
 ---
 
