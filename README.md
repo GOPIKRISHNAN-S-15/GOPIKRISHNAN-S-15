@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Full-stack web developer based in New Delhi, India, specializing in building scalable web applications with emphasis on robust backend architecture and efficient data management. Currently developing enterprise-level event management solutions utilizing modern web technologies and best practices in software engineering.
+Full-stack web developer based in Namakkal,Tamil Nadu, India, specializing in building scalable web applications with emphasis on robust backend architecture and efficient data management. Currently developing enterprise-level event management solutions utilizing modern web technologies and best practices in software engineering.
 
 Core competencies include full-stack development, database design, RESTful API development, and deployment optimization. Committed to writing clean, maintainable code and contributing to the open-source community.
 
@@ -94,8 +94,8 @@ A comprehensive full-stack web application designed for efficient event planning
 
 ## Professional Contact
 
-**Email:** your-email@domain.com  
-**LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+**Email:** gopi15062006@gmail.com 
+**LinkedIn:** [linkedin.com/in/your-linkedin]((https://www.linkedin.com/in/gopi15))  
 **GitHub:** [github.com/GOPIKRISHNAN-S-15](https://github.com/GOPIKRISHNAN-S-15)
 
 ---
