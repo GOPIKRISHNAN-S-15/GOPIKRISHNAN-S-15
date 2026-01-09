@@ -121,6 +121,10 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 
 I believe in building software that is clean, scalable, and easy to maintain. I actively follow industry best practices, value collaboration, and enjoy contributing to open-source projects.
 Learning GitHub achievements 🚀
+Pair programming practice 🤝
+Add pair programming note
+
+Co-authored-by: Dharshen <sarasu27102012@gmail.com>
 
 ---
 
