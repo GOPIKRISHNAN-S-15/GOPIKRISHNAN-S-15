@@ -91,9 +91,41 @@ Currently working on **enterprise-level web applications**, focusing on efficien
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [gopi15062006@gmail.com](mailto:gopi15062006@gmail.com)  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gopi15  
-- 🧑‍💻 **GitHub:** https://github.com/GOPIKRISHNAN-S-15  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Connect With Me</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+</head>
+<body>
+
+  <section class="connect-container">
+    <h2>📬 Connect With Me</h2>
+
+    <div class="button-group">
+      <a href="mailto:gopi15062006@gmail.com" class="btn email">
+        <i class="fa-solid fa-envelope"></i>
+        Email
+      </a>
+
+      <a href="https://www.linkedin.com/in/gopi15" target="_blank" class="btn linkedin">
+        <i class="fa-brands fa-linkedin"></i>
+        LinkedIn
+      </a>
+
+      <a href="https://github.com/GOPIKRISHNAN-S-15" target="_blank" class="btn github">
+        <i class="fa-brands fa-github"></i>
+        GitHub
+      </a>
+    </div>
+  </section>
+
+</body>
+</html>
+
 
 ---
 
