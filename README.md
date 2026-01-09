@@ -67,6 +67,11 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 ---
 
 ## 📊 GitHub Statistics
+## 📈 GitHub Grade
+
+<p align="center">
+  <img src="https://github.com/GOPIKRISHNAN-S-15/GOPIKRISHNAN-S-15/blob/main/github-metrics.svg" />
+</p>
 
 
 <p align="center">
