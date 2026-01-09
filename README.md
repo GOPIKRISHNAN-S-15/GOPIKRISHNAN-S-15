@@ -68,9 +68,7 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOPIKRISHNAN-S-15&theme=github_dark" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOPIKRISHNAN-S-15&theme=github_dark" />
 </p>
