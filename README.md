@@ -69,23 +69,19 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GOPIKRISHNAN-S-15&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=GOPIKRISHNAN-S-15&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOPIKRISHNAN-S-15&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKRISHNAN-S-15&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOPIKRISHNAN-S-15&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOPIKRISHNAN-S-15&theme=github_dark" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOPIKRISHNAN-S-15&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOPIKRISHNAN-S-15&theme=github_dark&utcOffset=5.5" />
+</p>
+
 
 ## 🎯 Current Focus
 
