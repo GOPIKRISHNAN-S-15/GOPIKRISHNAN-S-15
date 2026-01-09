@@ -15,4 +15,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: GOPIKRISHNAN-S-15
           template: classic
-          base: header, activity, repositories
+          base: header, activity, repositories, community
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+
