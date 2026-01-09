@@ -1,93 +1,114 @@
-# Gopi Krishnan S
-
-**Full-Stack Web Developer | Data Analyst  | Open-Source Contributor**
-
-[![GitHub followers](https://img.shields.io/github/followers/GOPIKRISHNAN-S-15?label=Follow&style=flat-square&color=0366d6)](https://github.com/GOPIKRISHNAN-S-15)
-[![GitHub stars](https://img.shields.io/github/stars/GOPIKRISHNAN-S-15?style=flat-square&color=yellow)](https://github.com/GOPIKRISHNAN-S-15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-
----
-
-## Professional Summary
-
-Full-stack web developer based in Namakkal,Tamil Nadu, India, specializing in building scalable web applications with emphasis on robust backend architecture and efficient data management. Currently developing enterprise-level event management solutions utilizing modern web technologies and best practices in software engineering.
-
-Core competencies include full-stack development, database design, RESTful API development, and deployment optimization. Committed to writing clean, maintainable code and contributing to the open-source community.
-
----
-
-## Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Databases
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
-### Core Competencies
-- RESTful API Development
-- Responsive Web Design
-- Version Control Systems
-- Agile Development Methodology
-- Database Design & Optimization
-- Full-Stack Architecture
-
----
-
-## GitHub Analytics
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOPIKRISHNAN-S-15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Gopi%20Krishnan%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKRISHNAN-S-15&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Analyst;Open-Source+Contributor;Building+Scalable+Web+Applications" />
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GOPIKRISHNAN-S-15&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <a href="https://github.com/GOPIKRISHNAN-S-15">
+    <img src="https://img.shields.io/github/followers/GOPIKRISHNAN-S-15?label=Followers&style=for-the-badge&color=0ea5e9">
+  </a>
+  <a href="https://github.com/GOPIKRISHNAN-S-15">
+    <img src="https://img.shields.io/github/stars/GOPIKRISHNAN-S-15?style=for-the-badge&color=facc15">
+  </a>
+  <a href="https://www.linkedin.com/in/gopi15">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## Current Focus
+## 👨‍💻 About Me
 
-- Advancing Flask development capabilities including microservices architecture
-- Expanding front-end expertise with modern frameworks (React/Vue.js)
-- Implementing DevOps practices and CI/CD pipelines
-- Docker containerization for deployment optimization
-- Performance optimization and comprehensive testing methodologies for full-stack applications
+📍 **Namakkal, Tamil Nadu, India**
 
----
+I am a **Full-Stack Web Developer** with strong interest in backend systems, database design, and scalable application architecture. I enjoy converting complex requirements into clean, maintainable solutions using modern development practices.
 
-## Professional Contact
-
-[Email](gopi15062006@gmail.com) <br>
-[LinkedIn](https://www.linkedin.com/in/gopi15)  <br>
-[Github](https://github.com/GOPIKRISHNAN-S-15)
+Currently working on **enterprise-level web applications**, focusing on efficient data handling, RESTful APIs, and performance optimization. I value clean code, documentation, and continuous learning.
 
 ---
 
-## Development Philosophy
+## 🧠 Technical Skills
 
-Committed to producing high-quality, maintainable code that adheres to industry best practices. Strong advocate for clean code principles, comprehensive documentation, and collaborative development. Dedicated to continuous learning and contributing to the open-source ecosystem.
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,jquery" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit" />
+</p>
+
+---
+
+## 🚀 Core Competencies
+
+- Full-Stack Web Development  
+- RESTful API Design & Integration  
+- Backend Architecture & Database Design  
+- Responsive UI Development  
+- Version Control & Collaboration  
+- Software Development Best Practices  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GOPIKRISHNAN-S-15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GOPIKRISHNAN-S-15&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKRISHNAN-S-15&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Enhancing backend development with **Flask**
+- Learning modern frontend frameworks (**React / Vue.js**)
+- Exploring **CI/CD pipelines** and DevOps practices
+- Docker-based deployment optimization
+- Application performance tuning & testing
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [gopi15062006@gmail.com](mailto:gopi15062006@gmail.com)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gopi15  
+- 🧑‍💻 **GitHub:** https://github.com/GOPIKRISHNAN-S-15  
+
+---
+
+## 🧩 Development Philosophy
+
+> *“Write code that humans can understand first, machines second.”*
+
+I believe in building software that is clean, scalable, and easy to maintain. I actively follow industry best practices, value collaboration, and enjoy contributing to open-source projects.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GOPIKRISHNAN-S-15&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GOPIKRISHNAN-S-15&style=for-the-badge&color=6366f1" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
 </p>
