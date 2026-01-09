@@ -69,14 +69,22 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GOPIKRISHNAN-S-15&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GOPIKRISHNAN-S-15&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GOPIKRISHNAN-S-15&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=GOPIKRISHNAN-S-15&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKRISHNAN-S-15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPIKRISHNAN-S-15&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
-
 ---
 
 ## 🎯 Current Focus
