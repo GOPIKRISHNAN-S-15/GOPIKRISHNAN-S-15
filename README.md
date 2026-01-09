@@ -120,6 +120,7 @@ Currently working on **enterprise-level web applications**, focusing on RESTful 
 > *“Write code that humans can understand first, machines second.”*
 
 I believe in building software that is clean, scalable, and easy to maintain. I actively follow industry best practices, value collaboration, and enjoy contributing to open-source projects.
+Learning GitHub achievements 🚀
 
 ---
 
